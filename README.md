@@ -5,7 +5,6 @@
 
 ![Sushi Restaurant](())
 <p align="center">
-<!--   <img src="https://capsule-render.vercel.app/api?text=Hello!✨&animation=fadeIn&type=waving&color=gradient&height=100"/> -->
   
   <img align='center' src='https://github.com/sadikatanisha/Sushi-restaurant/blob/main/sushirestaurant.gif' width='300"'>
 </p>
