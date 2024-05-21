@@ -1,26 +1,31 @@
 # Sushi-restaurant
 
 
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
-
 **Link to project:** https://sushiis.netlify.app/
 
-![alt tag]([http://placecorgi.com/1200/650](https://github.com/sadikatanisha/Sushi-restaurant/blob/main/sushirestaurant.gif))
+![Sushi Restaurant]((https://github.com/sadikatanisha/Sushi-restaurant/blob/main/sushirestaurant.gif))
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, 
+**Tech used:** HTML, CSS, JavaScript, AOS
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+The Sushi Restaurant project is a beautifully designed website showcasing a fictional sushi restaurant. This project was built using HTML for structure, CSS for styling, JavaScript for interactivity, and AOS (Animate On Scroll) library for smooth scrolling animations. Each section of the website, from the menu to the gallery, is crafted to provide a visually appealing and seamless user experience. The AOS library was particularly useful in adding subtle yet engaging animations as users scroll through the site, enhancing the overall aesthetic and usability.
 
 ## Optimizations
-*(optional)*
+To ensure optimal performance, I refactored the JavaScript code to eliminate any redundant operations, improving the overall efficiency of the website.
 
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *wow I actually did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+Working on the Sushi Restaurant project taught me valuable lessons in front-end development. I learned how to effectively use the AOS library to create engaging animations and improve user experience. This project also reinforced the importance of writing clean, maintainable code and optimizing performance. I had several whoa this is awesome moments, especially when seeing the animations come to life and the site performing smoothly across different devices. This experience has deepened my passion for front-end development and my commitment to continuously learning and improving my skills.
+
+
+
+
+
+
+
+
 
 
 
