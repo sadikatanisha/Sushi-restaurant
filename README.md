@@ -3,7 +3,11 @@
 
 **Link to project:** https://sushiis.netlify.app/
 
-![Sushi Restaurant]((https://github.com/sadikatanisha/Sushi-restaurant/blob/main/sushirestaurant.gif))
+![Sushi Restaurant](())
+<p align="center">
+<!--   <img src="https://capsule-render.vercel.app/api?text=Hello!✨&animation=fadeIn&type=waving&color=gradient&height=100"/> -->
+  <img align='center' src='sushirestaurant.gif' width='300"'>
+</p>
 
 ## How It's Made:
 
